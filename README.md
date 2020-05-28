@@ -32,7 +32,7 @@ Following steps will guide you how to get started with the extension :
 ```
 Voila, you get your extension placed and now, its time to play with it.
 
-### Overview <a name= "overview"></a>
+## 📖 Overview <a name= "overview"></a>
 Click on the extension and there you find a `search field`, type your word and then hit the `Replace`. 
 
   <p align="center">
@@ -57,3 +57,16 @@ You'll find that your word has been removed from the respective web page 😮.
   <img width=1000 height=500 src="https://user-images.githubusercontent.com/26703868/83180109-8fc12480-a140-11ea-9d69-0ca8f34d7fe8.gif" alt="Working"></a>
   </p>
 
+
+
+## ✍️ Author
+
+| ![](images/mayank-devnani.png) |
+| :----------------------------------------------------------: |
+| **[Mayank Devnani](https://www.linkedin.com/in/mayankdevnani/)**  |
+
+[![GitHub followers](https://img.shields.io/github/followers/may12day.svg?label=Follow%20@may12day&style=social)](https://github.com/may12day/) [![Twitter Follow](https://img.shields.io/twitter/follow/MayankDevnani?style=social)](https://twitter.com/MayankDevnani) 
+
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/may12day/)
+
+---
